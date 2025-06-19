@@ -1,0 +1,22 @@
+Matches by Season - Shows match trends over seasons.
+
+Winning Teams Distribution - Highlights the top 10 teams by number of wins.
+
+Venue Popularity - Identifies the most frequently used venues.
+
+Country-wise Venue Distribution - Shows the distribution of venues by country.
+
+Toss Outcome vs. Match Outcome - Illustrates the impact of winning the toss on winning the match.
+
+Winning Margins Distribution - Depicts how close or decisive games generally are.
+
+Man of the Match Leaders - Highlights the top 10 players with the most awards.
+
+Win Types - Shows the proportion of wins by runs vs. wickets.
+
+Winning Margins by Win Type - Compares margins for wins by runs and wickets.
+
+Seasonal Performance by Teams - A heatmap of team performance across seasons.
+
+
+descriptions related to the visuvalizations
